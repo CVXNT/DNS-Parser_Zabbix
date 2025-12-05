@@ -1,3 +1,7 @@
+
+
+
+REM Скрипт не работает.
 @echo off
 set domain=dashkov.ru
 

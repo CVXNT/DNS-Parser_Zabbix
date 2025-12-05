@@ -1,6 +1,11 @@
 
 # Указать нужный домен
+#####
 $domain = 'dashkov.ru'
+#####
+
+
+
 
 
 $venvPath = '.\app\venv\Scripts\Activate.ps1'
