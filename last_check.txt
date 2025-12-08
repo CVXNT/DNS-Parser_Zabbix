@@ -1,4 +1,0 @@
-Traceback (most recent call last):
-  File "C:\Users\HP-Laptop\Documents\VSC\DNS-Parser_Zabbix\app\main.py", line 9, in <module>
-    import dns.resolver
-ModuleNotFoundError: No module named 'dns'

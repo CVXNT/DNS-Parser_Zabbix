@@ -1,0 +1,1 @@
+nuitka --onefile --standalone --remove-output --output-filename=check-dns.exe app/main.py
